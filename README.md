@@ -1,4 +1,4 @@
 UCS-101
 =======
 
-CS101 Learning repo
+CS101 Learning Repo
